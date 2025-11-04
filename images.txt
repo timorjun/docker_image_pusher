@@ -3,7 +3,7 @@
 whyour/qinglong
 
 #指定arm架构   注释下面默认就是x86的 也可以指定x86
-# --platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 xiaoyaliu/alist
 
 
 #指定x86架构  默认就是 不需要写
