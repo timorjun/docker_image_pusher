@@ -2,8 +2,6 @@ nginx
 #支持私库
 qinglong
 
-
-
 #指定arm架构   注释下面默认就是x86的 也可以指定x86
 --platform=linux/arm64 xiaoyaliu/alist
 
